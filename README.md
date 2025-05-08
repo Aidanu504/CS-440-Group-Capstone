@@ -1,6 +1,6 @@
 # CS-440-Group-Capstone
 
-This is our final capstone project for CS 440 group 2. 
+This is our final capstone project for CS 440 group 2. Design Document available to be downloaded in above files. 
 
 ## Features
 
