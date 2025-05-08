@@ -68,3 +68,6 @@ popular_products
 - mongoDB:
 create_order,
 get_orders
+
+## Testing
+These can either be tested wihtin the UI or there is an attached postman collection to run each query. This collection is grouped into each type of database so you can easily test each one.  
